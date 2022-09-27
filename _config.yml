@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Criei esse blog para guardar minhas opiniões relacionadas a algum assunto.
   Todo assunto aqui tratado, tem base em pesquisas feitas, e são puramente opiniões.
   E em hipótese nenhuma, deve ser usado como verdade absoluta.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ryuvi-opinions" # the subpath of your site, e.g. /blog
+url: "https://ryuvi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ryuv2i
 github_username: ryuvi
 
