@@ -32,6 +32,7 @@ github_username: ryuvi
 # Build settings
 theme: minima
 # theme: jekyll-theme-dracula
+# remote-theme: "dracula/gh-pages"
 
 plugins:
   - jekyll-feed
